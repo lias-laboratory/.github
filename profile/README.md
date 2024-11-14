@@ -2,7 +2,7 @@
 
 Welcome to the source code repository hosting software developments of the LIAS Laboratory. 
 
-Software platforms and experimental prototypes associated with scientific publications are all provided to the scientific community under **open-source licenses**.
+Software platforms and experimental prototypes associated with scientific publications are all provided to the scientific community under **open source licenses**.
 
 More information about LIAS:
 * Website: https://www.lias-lab.fr
